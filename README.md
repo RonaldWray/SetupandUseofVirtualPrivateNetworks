@@ -3,7 +3,7 @@
 </p>
 
 <h1>Azure - Networking</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+In this presentation I take you through a networking process. Using Microsoft Azure I create resource groups, virtual networks and subnets. I also setup Virtual machines that use Windows and Linux. During this process I also work on security groups and opperating a firewall resource.<br />
 
 <h2>Environments and Technologies Used</h2>
 
